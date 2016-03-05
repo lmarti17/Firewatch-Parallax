@@ -1,4 +1,4 @@
-# Parallax using Firewatch layer artworks
+# Parallax using Firewatch artworks
 
 I do not own any of the layer I used in this experiment !
 Check their website at [firewatchgame.com](http://www.firewatchgame.com/).
