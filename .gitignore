@@ -1,0 +1,8 @@
+# files and folders ignored by git
+
+*.DS_Store
+*.gitkeep
+node_modules/*
+js/vendor/*
+sass/vendor/*
+

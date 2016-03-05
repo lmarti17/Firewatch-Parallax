@@ -1,0 +1,28 @@
+{
+  "name": "Couleurs",
+  "version": "1.0.0",
+  "description": "Jeu fonctionnel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecolehetic/P2018-11.git"
+  },
+  "author": "Lucas Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecolehetic/P2018-11/issues"
+  },
+  "homepage": "https://github.com/ecolehetic/P2018-11#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-watch": "^4.3.5"
+  }
+}

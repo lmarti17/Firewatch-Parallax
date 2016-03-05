@@ -1,0 +1,8 @@
+@mixin layer-retina-background($layer){
+	
+    background:         linear-gradient(to right,$op-dark-purple 10%,$op-purple 40%,$op-pink 65%,$op-yellow), url(#{$assetsLayerRetina}/parallax#{$layer}@2x.png) no-repeat center bottom;
+    background:    -moz-linear-gradient(to right,$op-dark-purple 10%,$op-purple 40%,$op-pink 65%,$op-yellow), url(#{$assetsLayerRetina}/parallax#{$layer}@2x.png) no-repeat center bottom;
+    background: -webkit-linear-gradient(to right,$op-dark-purple 10%,$op-purple 40%,$op-pink 65%,$op-yellow), url(#{$assetsLayerRetina}/parallax#{$layer}@2x.png) no-repeat center bottom;
+    background:      -o-linear-gradient(to right,$op-dark-purple 10%,$op-purple 40%,$op-pink 65%,$op-yellow), url(#{$assetsLayerRetina}/parallax#{$layer}@2x.png) no-repeat center bottom;
+
+}
