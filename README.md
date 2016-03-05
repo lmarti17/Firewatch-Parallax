@@ -23,7 +23,7 @@ The directories:
 
 2. Install the dependencies: `npm install`
 
-3. Download the assets [here](lucasmartin.fr/projects-assets/Firewatch-assets.zip) and copy it in your assets/ folder
+3. Download the assets [here](http://www.lucasmartin.fr/projects-assets/Firewatch-assets.zip) and copy it in your assets/ folder
 
 4. Build & Watch the app: `gulp`
 
