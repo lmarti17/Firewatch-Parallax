@@ -2,6 +2,7 @@
 
 *.DS_Store
 *.gitkeep
+assets/*
 node_modules/*
 js/vendor/*
 sass/vendor/*
